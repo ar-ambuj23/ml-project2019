@@ -1,0 +1,9 @@
+Linear Programming
+
+Linear Programming is an optimization technique to find the best outcome of a mathematical model for some given objective function and constraints which are represented as linear relationships. The objective function defines a quantity to be optimized and the goal of linear programming is to either maximize or minimize the objective function.
+
+
+
+References
+1) Zhao, Xi & Niu, Lingfeng & Shi, Yong. (2013). A Simple Regularized Multiple Criteria Linear Programs for Binary Classification. Procedia Computer Science. 18. 58-61. 10.1109/WI-IAT.2013.150. 
+2)
